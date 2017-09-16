@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LagosDevelopers</string>
+    <string name="internet">No Internet Connection please make sure device is connected</string>
+</resources>
